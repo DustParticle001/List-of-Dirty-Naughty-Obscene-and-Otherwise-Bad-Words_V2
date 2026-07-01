@@ -270,6 +270,7 @@ tumputtaa
 tunkeutua
 turku
 turpasauna
+turri 
 tussu
 tussukka
 tussut
